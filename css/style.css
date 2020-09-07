@@ -1,0 +1,71 @@
+body {
+    background-image: url(https://image.freepik.com/foto-gratuito/sfondo-di-assi-di-legno-scuro_23-2148318687.jpg);
+    color: white;
+
+
+}
+
+.container {
+    width: auto;
+
+}
+
+.busta {
+    width: 100px;
+
+}
+.titolo {
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+}
+
+.club {
+    color: white;
+    font-size: 30px;
+}
+.club2 {
+    color: white;
+    font-size: 30px;
+    line-height: 70px;
+}
+#trenta {
+    background-color: orange;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.blocco {
+    background-color: grey;
+    border: 1px solid black;
+
+}
+.riga {
+    display: inline-block;
+
+
+}
+
+.bianco {
+    background-color: white;
+    display: block;
+}
+.star {
+    color: black;
+}
+.sinistro {
+    color: black;
+
+}
+.destro {
+    color: lightgrey;
+}
+footer {
+    text-align: center;
+}
+#finale {
+    font-size: 40px;
+}
+#accompagno {
+    font-size: 30px;
+}
